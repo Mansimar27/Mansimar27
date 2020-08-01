@@ -9,4 +9,4 @@ I am **Mansimar Singh**, currently pursuing _B.Tech(IT)_ from _GTBIT_.
 
 _Connect_ with Me on Linkedin [Here](https://www.linkedin.com/in/mansimarsingh "Linkedin").
 
-Have a _Nice Day_♥
+Have a _Nice Day♥_
