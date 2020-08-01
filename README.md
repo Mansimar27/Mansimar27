@@ -3,7 +3,7 @@
 I am **Mansimar Singh**, currently pursuing _B.Tech(IT)_ from _GTBIT_.
 
 - 🔭 I’m currently working on **Flutter**.
-- 📫 How to reach me: [Mansimar Singh](https://www.instagram.com/mansimarsingh "Instagram")
+- 📫 How to reach Me: [Mansimar Singh](https://www.instagram.com/mansimarsingh "Instagram")
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a _Tech-Geek_!
 
