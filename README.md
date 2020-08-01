@@ -1,6 +1,5 @@
-  **Hi there 👋**
-  
-  I am **Mansimar Singh,** pursuing _B.Tech(IT)_ from _GTBIT_ and i am a **Flutter Developer.**
+**Hi there 👋**
+I am **Mansimar Singh,** pursuing _B.Tech(IT)_ from _GTBIT_ and i am a **Flutter Developer.**
 
 <!--
 **Mansimar27/Mansimar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
