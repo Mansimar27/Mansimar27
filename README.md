@@ -1,4 +1,4 @@
-**Hi there 👋**
+**Hi there <img src="https://raw.githubusercontent.com/karanjot-s/karanjot-s/master/wave.gif" width="20px">**
 
 I am **Mansimar Singh**, currently pursuing _B.Tech(IT)_ from _GTBIT_.
 
